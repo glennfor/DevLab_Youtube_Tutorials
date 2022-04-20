@@ -1,0 +1,36 @@
+
+Introduction to the C language
+Basic Components of a programming langauge
+    -I/O
+    -variable system
+    -decision/selection constructs
+    -iteration/looping constructs
+    -user defined ttpes
+==========================
+Docs
+
+1. Cheat Sheet
+
+=========================
+Basic C program
+Preprocessor directives
+Comments
+Varibles and constants
+variable scope
+Datatypes
+Header Files
+
+Operators
+Input/ Ouput
+Slection
+looping
+
+characters
+arrays
+Strings
+Structures
+Unioons
+Functions
+File I/O
+Os manip
+Pointers
